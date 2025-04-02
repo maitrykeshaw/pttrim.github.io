@@ -17,4 +17,4 @@ Allow: /
 User-agent: Storebot-Google
 Allow: /
 
-Sitemap: https://pttrim-fatburn.vercel.app
+Sitemap: https://pttrim-fatburn.vercel.app/sitemap.xml
