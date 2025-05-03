@@ -1,12 +1,12 @@
 {
-  "name":"PWA Tutorial",
-  "short_name":"PWA",
+  "name":"PT TRIM™ (Official Site) | Get 87% Off Today Only",
+  "short_name":"PT TRIM™",
   "start_url":"index.html",
   "display":"standalone",
   "background_color":"#5900b3",
   "theme_color":"#FF5733",
   "scope": ".",
-  "description":"This is a PWA tutorial.",
+  "description":"PT Trim Fat Burn is a natural diet and weight loss supplement that can dramatically reduce your body weight.",
   "icons":[
   {
   "src":"icons/favicon-192x192.png",                     
